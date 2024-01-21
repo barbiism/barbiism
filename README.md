@@ -1,7 +1,3 @@
-### Olá! Essas são algumas informações sobre mim 😊
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbiism&show_icons=true&theme=tokyonight)
-
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   
